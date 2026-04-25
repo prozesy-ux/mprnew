@@ -1,0 +1,17 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "remove-r2-sri",
+			"type": "shell",
+			"command": "powershell",
+			"args": [
+				"-NoProfile",
+				"-ExecutionPolicy",
+				"Bypass",
+				"-Command",
+				"$root='c:\\Users\\mpro\\Desktop\\mprnew\\mpr-main'; Get-ChildItem -Path $root -Recurse -File -Filter *.html | ForEach-Object { $p=$_.FullName; $c=Get-Content -Raw -LiteralPath $p; $n=$c -replace ' integrity=\"[^\"]*\" crossorigin=\"anonymous\"','' -replace ' crossorigin=\"anonymous\" integrity=\"[^\"]*\"',''; if($n -ne $c){ Set-Content -LiteralPath $p -Value $n -Encoding utf8 } }"
+			]
+		}
+	]
+}

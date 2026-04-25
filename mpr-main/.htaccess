@@ -1,0 +1,47 @@
+# ===================================================================
+# REDIRECT RULES: Design-Monks → Prozesy Media
+# ===================================================================
+# Use this file in your web root to redirect old design-monks URLs
+# to new Prozesy Media URLs and maintain SEO value with 301 redirects
+
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    RewriteBase /
+
+    # ───────────────────────────────────────────────────────────────
+    # SOCIAL MEDIA & EXTERNAL LINKS
+    # ───────────────────────────────────────────────────────────────
+    # Note: These are external URLs - keep for brand consistency
+    # dribbble.com/design_monks → remains the same (external)
+    # linkedin.com/company/designmonks → remains the same (external)
+    # twitter.com/design_monks → remains the same (external)
+    # t.me/designmonks → remains the same (external)
+    # tidycal.com/designmonks → remains the same (external)
+
+    # ───────────────────────────────────────────────────────────────
+    # INTERNAL PAGE REDIRECTS
+    # ───────────────────────────────────────────────────────────────
+    
+    # Old comparison pages → New Prozesy pages
+    RewriteRule ^/?$ /prozesy-vs-agencies/ [R=301,L]
+    RewriteRule ^/?$ /prozesy-vs-freelancers/ [R=301,L]
+    RewriteRule ^/?$ /prozesy-vs-inhouse/ [R=301,L]
+    
+    # Blog category redirect
+    RewriteRule ^blog-category/life-at-design-monks/?$ /blog-category/life-at-prozesy/ [R=301,L]
+    
+    # Catch-all for any remaining design-monks URLs
+    RewriteCond %{REQUEST_URI} design-monks
+    RewriteRule ^(.*)$ /$(str_replace "$1" "design-monks" "prozesy")$ [R=301,L]
+</IfModule>
+
+# ===================================================================
+# NGINX EQUIVALENT (if using Nginx instead of Apache)
+# ===================================================================
+# Add to your nginx server block:
+#
+# rewrite ^//?$ /prozesy-vs-agencies/ permanent;
+# rewrite ^//?$ /prozesy-vs-freelancers/ permanent;
+# rewrite ^//?$ /prozesy-vs-inhouse/ permanent;
+# rewrite ^/blog-category/life-at-design-monks/?$ /blog-category/life-at-prozesy/ permanent;
+# rewrite ^/(.*)design-monks(.*)$ /$1prozesy$2 permanent;

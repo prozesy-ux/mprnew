@@ -1,0 +1,17 @@
+OLD_URL,NEW_URL,PAGES_AFFECTED,STATUS,PRIORITY,NOTES
+/,/prozesy-vs-agencies,All 96 pages,REDIRECT_NEEDED,HIGH,Comparison page - linked from all footers
+/,/prozesy-vs-freelancers,All 96 pages,REDIRECT_NEEDED,HIGH,Comparison page - linked from all footers
+/,/prozesy-vs-inhouse,All 96 pages,REDIRECT_NEEDED,HIGH,Comparison page - linked from all footers
+/blog-category/life-at-design-monks,/blog-category/life-at-prozesy,blogs/index.html,REDIRECT_NEEDED,MEDIUM,Blog category page - single link
+https://dribbble.com/prozesy-media,https://dribbble.com/prozesy-media,All 96 pages,KEEP_AS_IS,LOW,External social link - brand portfolio account
+https://www.linkedin.com/company/prozesymedia,https://www.linkedin.com/company/prozesymedia,All 96 pages,KEEP_AS_IS,LOW,External social link - company profile
+https://x.com/prozesy-media,https://x.com/prozesy-media,All 96 pages,KEEP_AS_IS,LOW,External social link - brand account
+https://t.me/prozesy-media,https://t.me/prozesy-media,All 96 pages,KEEP_AS_IS,LOW,External social link - Telegram channel
+https://tidycal.com/designmonks/lets-discuss,https://tidycal.com/designmonks/lets-discuss,blogs/index.html,KEEP_AS_IS,LOW,External booking link
+css/design-monks.shared.a6355be29.min.css,css/design-monks.shared.a6355be29.min.css,All 96 pages,KEEP_AS_IS,N/A,Webflow generated asset - auto-maintained
+js/design-monks.*.js,js/design-monks.*.js,All 96 pages,KEEP_AS_IS,N/A,Webflow generated asset - auto-maintained
+github.com/designmonks/Contact-US-Video,github.com/designmonks/Contact-US-Video,Multiple pages,KEEP_OR_MIGRATE,LOW,External GitHub repo - optional to migrate
+cdn.jsdelivr.net/gh/designmonks/client-testimonials,cdn.jsdelivr.net/gh/designmonks/client-testimonials,Multiple pages,KEEP_OR_MIGRATE,LOW,External GitHub CDN - optional to migrate
+"Home is where the monk lives","Home is where the Prozesy lives",92 pages,COMPLETED,N/A,Text replacement - already done
+"An overview of the Monk family","An overview of the Prozesy family",92 pages,COMPLETED,N/A,Text replacement - already done
+"Be a Monk!","Be a Prozesy!",92 pages,COMPLETED,N/A,Text replacement - already done

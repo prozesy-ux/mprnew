@@ -1,0 +1,185 @@
+{
+  "project": "Prozesy Media Rebranding",
+  "date": "2026-04-23",
+  "status": "In Progress",
+  "redirects": [
+    {
+      "id": 1,
+      "type": "internal_page_redirect",
+      "old_url": "/",
+      "new_url": "/prozesy-vs-agencies",
+      "status_code": 301,
+      "pages_affected": 96,
+      "priority": "HIGH",
+      "description": "Comparison page redirect - linked from all page footers"
+    },
+    {
+      "id": 2,
+      "type": "internal_page_redirect",
+      "old_url": "/",
+      "new_url": "/prozesy-vs-freelancers",
+      "status_code": 301,
+      "pages_affected": 96,
+      "priority": "HIGH",
+      "description": "Comparison page redirect - linked from all page footers"
+    },
+    {
+      "id": 3,
+      "type": "internal_page_redirect",
+      "old_url": "/",
+      "new_url": "/prozesy-vs-inhouse",
+      "status_code": 301,
+      "pages_affected": 96,
+      "priority": "HIGH",
+      "description": "Comparison page redirect - linked from all page footers"
+    },
+    {
+      "id": 4,
+      "type": "internal_page_redirect",
+      "old_url": "/blog-category/life-at-design-monks",
+      "new_url": "/blog-category/life-at-prozesy",
+      "status_code": 301,
+      "pages_affected": 1,
+      "priority": "MEDIUM",
+      "description": "Blog category redirect - linked from blogs/index.html"
+    }
+  ],
+  "external_links_to_keep": [
+    {
+      "platform": "Dribbble",
+      "url": "https://dribbble.com/prozesy-media",
+      "pages": 96,
+      "action": "KEEP_AS_IS",
+      "reason": "External brand portfolio account"
+    },
+    {
+      "platform": "LinkedIn",
+      "url": "https://www.linkedin.com/company/prozesymedia",
+      "pages": 96,
+      "action": "KEEP_AS_IS",
+      "reason": "External company profile"
+    },
+    {
+      "platform": "Twitter/X",
+      "url": "https://x.com/prozesy-media",
+      "pages": 96,
+      "action": "KEEP_AS_IS",
+      "reason": "External brand account"
+    },
+    {
+      "platform": "Telegram",
+      "url": "https://t.me/prozesy-media",
+      "pages": 96,
+      "action": "KEEP_AS_IS",
+      "reason": "External brand channel"
+    },
+    {
+      "platform": "TidyCal",
+      "url": "https://tidycal.com/designmonks/lets-discuss",
+      "pages": 1,
+      "action": "KEEP_AS_IS",
+      "reason": "External booking/scheduling link"
+    }
+  ],
+  "assets_to_keep": [
+    {
+      "type": "CSS_Files",
+      "pattern": "design-monks.*.min.css",
+      "pages": 96,
+      "action": "KEEP_AS_IS",
+      "reason": "Webflow auto-generated assets - will be regenerated on publish"
+    },
+    {
+      "type": "JavaScript_Files",
+      "pattern": "design-monks.*.js",
+      "pages": 96,
+      "action": "KEEP_AS_IS",
+      "reason": "Webflow runtime files - essential for site functionality"
+    },
+    {
+      "type": "Image_Assets",
+      "files": [
+        "_Designmonks.svg",
+        "_Designmonks.webp",
+        "MonksWizard2_iPad.avif",
+        "MonkStitch_iPad.avif",
+        "MonksMart_iPad.avif",
+        "MonksMeet_iPad.avif",
+        "MonksHR2_iPad.avif"
+      ],
+      "pages_affected": 17,
+      "action": "KEEP_AS_IS",
+      "reason": "Project-specific product/demo assets"
+    }
+  ],
+  "text_replacements_completed": [
+    {
+      "old_text": "Home is where the monk lives",
+      "new_text": "Home is where the Prozesy lives",
+      "pages_updated": 92,
+      "status": "COMPLETED"
+    },
+    {
+      "old_text": "An overview of the Monk family",
+      "new_text": "An overview of the Prozesy family",
+      "pages_updated": 92,
+      "status": "COMPLETED"
+    },
+    {
+      "old_text": "Be a Monk!",
+      "new_text": "Be a Prozesy!",
+      "pages_updated": 92,
+      "status": "COMPLETED"
+    }
+  ],
+  "migration_phases": {
+    "phase_1": {
+      "name": "URL Redirects Setup",
+      "status": "READY",
+      "steps": [
+        "Upload .htaccess file to web root",
+        "Test 301 redirects for all 4 old URLs",
+        "Monitor Google Search Console for redirect success"
+      ]
+    },
+    "phase_2": {
+      "name": "Create New Pages",
+      "status": "PENDING",
+      "steps": [
+        "Create /prozesy-vs-agencies/ page",
+        "Create /prozesy-vs-freelancers/ page",
+        "Create /prozesy-vs-inhouse/ page",
+        "Create /blog-category/life-at-prozesy/ page",
+        "Add new pages to sitemap.xml"
+      ]
+    },
+    "phase_3": {
+      "name": "External Links Update",
+      "status": "OPTIONAL",
+      "steps": [
+        "Update Dribbble profile if rebranding",
+        "Update LinkedIn company URL if rebranding",
+        "Update Twitter/X handle if rebranding",
+        "Update Telegram channel if rebranding"
+      ]
+    },
+    "phase_4": {
+      "name": "Post-Launch Monitoring",
+      "status": "ONGOING",
+      "steps": [
+        "Monitor 404 errors in Google Search Console",
+        "Check backlinks for old design-monks URLs",
+        "Monitor social mentions",
+        "Track redirect success rate"
+      ]
+    }
+  },
+  "summary": {
+    "total_pages": 96,
+    "total_redirects_needed": 4,
+    "total_external_links_to_keep": 5,
+    "total_asset_references": 50,
+    "text_replacements_done": 3,
+    "completion_percentage": 92
+  }
+}

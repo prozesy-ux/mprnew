@@ -1,0 +1,188 @@
+TITLE: C:\Users\mpro\Desktop\mprnew\mpr-main\about\index.html
+  OLD: About Prozesy Media | Expert Performance Marketing and Design Team (66)
+  NEW: About Prozesy Media | Performance Marketing Team (48)
+TITLE: C:\Users\mpro\Desktop\mprnew\mpr-main\blog\index.html
+  OLD: Prozesy Media Blog | Digital Marketing, Ads and Design Insights (63)
+  NEW: Prozesy Media Blog | Marketing, Ads & Design (44)
+TITLE: C:\Users\mpro\Desktop\mprnew\mpr-main\blog\enterprise-website-design\index.html
+  OLD: Enterprise Website Design: Strategy, Cost and Best Practices | Prozesy Media (76)
+  NEW: Enterprise Website Design: Strategy & Best Practices (52)
+TITLE: C:\Users\mpro\Desktop\mprnew\mpr-main\blog\mobile-app-ui-ux-boost-installs-engagement-with-pro-design\index.html
+  OLD: Mobile App UI/UX: Boost Installs & Engagement with Pro Design (61)
+  NEW: Mobile App UI/UX: Boost Installs & Engagement (45)
+TITLE: C:\Users\mpro\Desktop\mprnew\mpr-main\career\index.html
+  OLD: Careers at Prozesy Media | Join Our Marketing and Design Team (61)
+  NEW: Careers at Prozesy Media | Marketing & Design Team (50)
+TITLE: C:\Users\mpro\Desktop\mprnew\mpr-main\industry\index.html
+  OLD: Industry-Specific Digital Marketing and Design Services | Prozesy Media (71)
+  NEW: Industry Digital Marketing & Design Services | Prozesy Media (60)
+TITLE: C:\Users\mpro\Desktop\mprnew\mpr-main\industry\ai-machine-learning\index.html
+  OLD: AI and Machine Learning App Design and Marketing | Prozesy Media (64)
+  NEW: AI & ML App Design and Marketing | Prozesy Media (48)
+TITLE: C:\Users\mpro\Desktop\mprnew\mpr-main\industry\beauty-cosmetics\index.html
+  OLD: Beauty and Cosmetics Brand Design and Marketing | Prozesy Media (63)
+  NEW: Beauty & Cosmetics Design and Marketing | Prozesy Media (55)
+TITLE: C:\Users\mpro\Desktop\mprnew\mpr-main\industry\business-consulting\index.html
+  OLD: Business Consulting Firm Website Design and Marketing | Prozesy Media (69)
+  NEW: Business Consulting Web Design & Marketing | Prozesy Media (58)
+TITLE: C:\Users\mpro\Desktop\mprnew\mpr-main\industry\construction\index.html
+  OLD: Construction Company Marketing and Web Design | Prozesy Media (61)
+  NEW: Construction Marketing and Web Design | Prozesy Media (53)
+TITLE: C:\Users\mpro\Desktop\mprnew\mpr-main\industry\cybersecurity\index.html
+  OLD: Cybersecurity Company Web Design and Marketing | Prozesy Media (62)
+  NEW: Cybersecurity Web Design and Marketing | Prozesy Media (54)
+TITLE: C:\Users\mpro\Desktop\mprnew\mpr-main\industry\entertainment\index.html
+  OLD: Entertainment Brand Design and Digital Marketing | Prozesy Media (64)
+  NEW: Entertainment Brand Design & Marketing | Prozesy Media (54)
+TITLE: C:\Users\mpro\Desktop\mprnew\mpr-main\industry\event-management\index.html
+  OLD: Event Management Website Design and Marketing | Prozesy Media (61)
+  NEW: Event Management Web Design & Marketing | Prozesy Media (55)
+TITLE: C:\Users\mpro\Desktop\mprnew\mpr-main\industry\fashion-apparel\index.html
+  OLD: Fashion and Apparel Brand Design and Marketing | Prozesy Media (62)
+  NEW: Fashion & Apparel Design and Marketing | Prozesy Media (54)
+TITLE: C:\Users\mpro\Desktop\mprnew\mpr-main\industry\hotel-management\index.html
+  OLD: Hotel Management Platform Design and Marketing | Prozesy Media (62)
+  NEW: Hotel Management Design & Marketing | Prozesy Media (51)
+TITLE: C:\Users\mpro\Desktop\mprnew\mpr-main\industry\insurance\index.html
+  OLD: Insurance Company Digital Marketing and Web Design | Prozesy Media (66)
+  NEW: Insurance Digital Marketing & Web Design | Prozesy Media (56)
+TITLE: C:\Users\mpro\Desktop\mprnew\mpr-main\industry\it-solutions\index.html
+  OLD: IT Solutions Company Web Design and Marketing | Prozesy Media (61)
+  NEW: IT Solutions Web Design and Marketing | Prozesy Media (53)
+TITLE: C:\Users\mpro\Desktop\mprnew\mpr-main\industry\mental-health-services\index.html
+  OLD: Mental Health Services Website Design and Marketing | Prozesy Media (67)
+  NEW: Mental Health Web Design & Marketing | Prozesy Media (52)
+TITLE: C:\Users\mpro\Desktop\mprnew\mpr-main\industry\portfolio\index.html
+  OLD: Portfolio Website Design for Creatives and Agencies | Prozesy Media (67)
+  NEW: Portfolio Website Design for Agencies | Prozesy Media (53)
+TITLE: C:\Users\mpro\Desktop\mprnew\mpr-main\industry\real-estate\index.html
+  OLD: Real Estate Digital Marketing and Website Design | Prozesy Media (64)
+  NEW: Real Estate Digital Marketing & Web Design | Prozesy Media (58)
+TITLE: C:\Users\mpro\Desktop\mprnew\mpr-main\industry\renewable-energy\index.html
+  OLD: Renewable Energy Company Marketing and Web Design | Prozesy Media (65)
+  NEW: Renewable Energy Marketing and Web Design | Prozesy Media (57)
+TITLE: C:\Users\mpro\Desktop\mprnew\mpr-main\industry\tourism\index.html
+  OLD: Tourism and Travel Website Design and Marketing | Prozesy Media (63)
+  NEW: Tourism & Travel Web Design and Marketing | Prozesy Media (57)
+TITLE: C:\Users\mpro\Desktop\mprnew\mpr-main\industry\transportation-logistics\index.html
+  OLD: Transportation and Logistics Web Design and Marketing | Prozesy Media (69)
+  NEW: Transport & Logistics Web Design & Marketing | Prozesy Media (60)
+TITLE: C:\Users\mpro\Desktop\mprnew\mpr-main\meta-ads\index.html
+  OLD: Meta Ads Agency | Facebook and Instagram Advertising | Prozesy Media (68)
+  NEW: Meta Ads Agency | Facebook & Instagram Ads | Prozesy Media (58)
+TITLE: C:\Users\mpro\Desktop\mprnew\mpr-main\pricing\index.html
+  OLD: Marketing and Design Pricing | Affordable Plans | Prozesy Media (63)
+  NEW: Marketing & Design Pricing | Plans | Prozesy Media (50)
+TITLE: C:\Users\mpro\Desktop\mprnew\mpr-main\privacy-policy\index.html
+  OLD: Privacy Policy (14)
+  NEW: Privacy Policy | Prozesy Media (30)
+TITLE: C:\Users\mpro\Desktop\mprnew\mpr-main\seo-optimization\index.html
+  OLD: SEO Services Agency | Technical SEO and Content Optimization | Prozesy Media (76)
+  NEW: SEO Agency | Technical & On-Page SEO Services | Prozesy Media (61)
+TITLE: C:\Users\mpro\Desktop\mprnew\mpr-main\services\index.html
+  OLD: UI/UX, Branding &amp;Web Design: All Premium Service in 1 Place (63)
+  NEW: All-in-One: UI/UX, Branding & Web Design Services | Prozesy Media (65)
+TITLE: C:\Users\mpro\Desktop\mprnew\mpr-main\terms-and-condition\index.html
+  OLD: terms and condition (19)
+  NEW: Terms and Conditions | Prozesy Media (36)
+TITLE: C:\Users\mpro\Desktop\mprnew\mpr-main\tiktok-ads\index.html
+  OLD: TikTok Ads Agency | TikTok Advertising and Campaign Management | Prozesy Media (78)
+  NEW: TikTok Ads Agency | Advertising Management | Prozesy Media (58)
+TITLE: C:\Users\mpro\Desktop\mprnew\mpr-main\ui-ux\index.html
+  OLD: UI UX Design Agency | Web and Mobile App Design | Prozesy Media (63)
+  NEW: UI/UX Design Agency | Web & Mobile Design | Prozesy Media (57)
+TITLE: C:\Users\mpro\Desktop\mprnew\mpr-main\web-app-development\index.html
+  OLD: Web App Development Agency | Custom Web Apps and SaaS | Prozesy Media (69)
+  NEW: Web App Development | Custom SaaS Apps | Prozesy Media (54)
+
+Titles changed: 32
+DESC FIXED: C:\Users\mpro\Desktop\mprnew\mpr-main\biplop-sharkar\index.html
+  OLD(51): Biplop Sharkar is Senior Marketer at Prozesy Media.
+  NEW(143)
+DESC FIXED: C:\Users\mpro\Desktop\mprnew\mpr-main\bitas-pramanik\index.html
+  OLD(47): Bitas Pramanik is UI Designer at Prozesy Media.
+  NEW(145)
+DESC FIXED: C:\Users\mpro\Desktop\mprnew\mpr-main\blog\ad-creative-that-sells-real-world-examples-results\index.html
+  OLD(115): Build ad creatives that convert by combining audience psychology, message hierar
+  NEW(158)
+DESC FIXED: C:\Users\mpro\Desktop\mprnew\mpr-main\mehdi-hasan-soikot\index.html
+  OLD(61): Mehdi Hasan Soikot is Marketing Team Leader at Prozesy Media.
+  NEW(147)
+DESC FIXED: C:\Users\mpro\Desktop\mprnew\mpr-main\mostafizur-rahman\index.html
+  OLD(54): Mostafizur Rahman is Project Manager at Prozesy Media.
+  NEW(151)
+DESC FIXED: C:\Users\mpro\Desktop\mprnew\mpr-main\olivia-jade\index.html
+  OLD(49): Olivia Jade is Product Designer at Prozesy Media.
+  NEW(152)
+DESC FIXED: C:\Users\mpro\Desktop\mprnew\mpr-main\products\3d-cryptocurrency-icon-set\index.html
+  OLD(108): 50 hook and script starters for UGC ad videos built to stop scrolling and improv
+  NEW(159)
+DESC FIXED: C:\Users\mpro\Desktop\mprnew\mpr-main\products\ai-mental-health-app-ui-kit\index.html
+  OLD(112): High-converting ad copy hooks, primary text, and CTA angles for service sales, l
+  NEW(155)
+DESC FIXED: C:\Users\mpro\Desktop\mprnew\mpr-main\products\asana-app-interface-design\index.html
+  OLD(95): Done-for-you email flow templates for onboarding, reactivation, upsell, and cust
+  NEW(151)
+DESC FIXED: C:\Users\mpro\Desktop\mprnew\mpr-main\products\cryptocurrency-app-ui-design\index.html
+  OLD(109): Ready-to-use creative brief templates for UGC, static, and short-form video prod
+  NEW(155)
+DESC FIXED: C:\Users\mpro\Desktop\mprnew\mpr-main\products\hello-fresh-meal-delivery-app-ui-design\index.html
+  OLD(112): Practical ad hacks, creative ideas, and campaign fixes you can apply this week t
+  NEW(157)
+DESC FIXED: C:\Users\mpro\Desktop\mprnew\mpr-main\products\monkshub-the-ultimate-online-learning-framer-template\index.html
+  OLD(102): Plan awareness, retargeting, and conversion campaigns in one framework with budg
+  NEW(157)
+DESC FIXED: C:\Users\mpro\Desktop\mprnew\mpr-main\products\neuraflow-ai-automated-business-website-figma-design\index.html
+  OLD(115): A guided mentorship workbook covering offer clarity, ad structure, and weekly op
+  NEW(158)
+DESC FIXED: C:\Users\mpro\Desktop\mprnew\mpr-main\products\password-manager-ui-concept\index.html
+  OLD(95): Clarify your offer, pricing narrative, and value stack so ads and landing pages 
+  NEW(149)
+DESC FIXED: C:\Users\mpro\Desktop\mprnew\mpr-main\products\peacock-app-ui-concept\index.html
+  OLD(104): A free checklist to audit your landing page messaging, trust signals, CTA flow, 
+  NEW(161)
+DESC FIXED: C:\Users\mpro\Desktop\mprnew\mpr-main\products\piggy-money-management-app-ui\index.html
+  OLD(97): Free dashboard sheets for tracking CPC, CPA, ROAS, creative winners, and weekly 
+  NEW(150)
+DESC FIXED: C:\Users\mpro\Desktop\mprnew\mpr-main\products\smart-home-app-ui-design\index.html
+  OLD(104): Campaign-ready keyword clusters, match-type guidance, and negative keyword logic
+  NEW(157)
+DESC FIXED: C:\Users\mpro\Desktop\mprnew\mpr-main\projects\shoplift-design-marketing\index.html
+  OLD(116): Shoplift case story focused on design-led marketing journeys, offer storytelling
+  NEW(148)
+DESC FIXED: C:\Users\mpro\Desktop\mprnew\mpr-main\rahmatullah-onu\index.html
+  OLD(52): Rahmatullah Onu is Motion Designer at Prozesy Media.
+  NEW(152)
+DESC FIXED: C:\Users\mpro\Desktop\mprnew\mpr-main\rahul-roy\index.html
+  OLD(42): Rahul Roy is UI Designer at Prozesy Media.
+  NEW(156)
+DESC FIXED: C:\Users\mpro\Desktop\mprnew\mpr-main\tasfeen-nayem\index.html
+  OLD(46): Tasfeen Nayem is UI Designer at Prozesy Media.
+  NEW(154)
+DESC FIXED: C:\Users\mpro\Desktop\mprnew\mpr-main\yash-vardhan\index.html
+  OLD(54): Yash Vardhan is COO &amp; Co-founder at Prozesy Media.
+  NEW(154)
+
+Descriptions fixed (exact): 22
+TRIM: C:\Users\mpro\Desktop\mprnew\mpr-main\products\peacock-app-ui-concept\index.html  161 -> 149
+TRIM: C:\Users\mpro\Desktop\mprnew\mpr-main\services\branding-design\index.html  168 -> 151
+TRIM: C:\Users\mpro\Desktop\mprnew\mpr-main\services\google-ads\index.html  163 -> 150
+TRIM: C:\Users\mpro\Desktop\mprnew\mpr-main\services\meta-ads\index.html  165 -> 153
+TRIM: C:\Users\mpro\Desktop\mprnew\mpr-main\services\seo-optimization\index.html  166 -> 150
+TRIM: C:\Users\mpro\Desktop\mprnew\mpr-main\services\ui-ux\index.html  163 -> 152
+
+Descriptions trimmed: 6
+SVC DIFF: services/google-ads -> Google Ads Management Services | PPC Agency | Prozesy Media (59)
+SVC DIFF: services/meta-ads -> Meta Ads Management Services | Agency | Prozesy Media (53)
+SVC DIFF: services/seo-optimization -> SEO Optimization Services | Technical SEO Agency | Prozesy Media (64)
+SVC DIFF: services/ui-ux -> UI/UX Design Services | Web & Mobile App Design | Prozesy Media (63)
+SVC DIFF: services/tiktok-ads -> TikTok Ads Management Services | Agency | Prozesy Media (55)
+SVC DIFF: services/web-app-development -> Web App Development Services | Custom SaaS | Prozesy Media (58)
+SVC DIFF: services/branding-design -> Branding & Logo Design Services | Prozesy Media Agency (54)
+DIFF: blogs/ title & desc updated
+
+Service/duplicate pages differentiated: 8
+
+H1 injected: 0  (already had H1: 30)
+
+========== ALL FIXES COMPLETE ==========

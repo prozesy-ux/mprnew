@@ -1,0 +1,88 @@
+
+========== SEO QA REPORT ==========
+Total pages scanned : 96
+Pages with issues   : 10
+
+--- PAGES WITH ISSUES ---
+
+  [C:\Users\mpro\Desktop\mprnew\mpr-main\blog\enterprise-website-design\index.html]
+    Issues    : DESC_TOO_LONG_161 | H1_TITLE_MISMATCH
+    Title(52): Enterprise Website Design: Strategy & Best Practices
+    Desc (161 chars)
+    H1        : Retargeting Like a Pro: Meta & Google Ads Customer Comeback
+
+  [C:\Users\mpro\Desktop\mprnew\mpr-main\blog\index.html]
+    Issues    : H1_TITLE_MISMATCH
+    Title(44): Prozesy Media Blog | Marketing, Ads & Design
+    Desc (156 chars)
+    H1        : Your Go-To Source: 
+                                                 
+
+  [C:\Users\mpro\Desktop\mprnew\mpr-main\blogs\index.html]
+    Issues    : H1_TITLE_MISMATCH
+    Title(56): Prozesy Media Articles | Digital Marketing & Design Blog
+    Desc (160 chars)
+    H1        : Your Go-To Source: 
+                                                 
+
+  [C:\Users\mpro\Desktop\mprnew\mpr-main\career\index.html]
+    Issues    : H1_TITLE_MISMATCH
+    Title(50): Careers at Prozesy Media | Marketing & Design Team
+    Desc (158 chars)
+    H1        : Be a part of Something Great
+
+  [C:\Users\mpro\Desktop\mprnew\mpr-main\contact\index.html]
+    Issues    : H1_TITLE_MISMATCH
+    Title(57): Contact Prozesy Media | Get a Free Marketing Consultation
+    Desc (152 chars)
+    H1        : Have a Question or
+                                        Just Want 
+
+  [C:\Users\mpro\Desktop\mprnew\mpr-main\meta-ads\index.html]
+    Issues    : H1_TITLE_MISMATCH
+    Title(58): Meta Ads Agency | Facebook & Instagram Ads | Prozesy Media
+    Desc (151 chars)
+    H1        : Your Partner in Growth: Expert Marketing Meta Ads Services
+
+  [C:\Users\mpro\Desktop\mprnew\mpr-main\pricing\index.html]
+    Issues    : H1_TITLE_MISMATCH
+    Title(50): Marketing & Design Pricing | Plans | Prozesy Media
+    Desc (151 chars)
+    H1        : Premium Quality With
+                                                
+
+  [C:\Users\mpro\Desktop\mprnew\mpr-main\projects\index.html]
+    Issues    : H1_TITLE_MISMATCH
+    Title(50): Our Work and Projects | Prozesy Media Case Studies
+    Desc (148 chars)
+    H1        : Designs
+                                        That Speak 
+        
+
+  [C:\Users\mpro\Desktop\mprnew\mpr-main\services\index.html]
+    Issues    : H1_TITLE_MISMATCH
+    Title(53): UI/UX, Branding & Web Design Services | Prozesy Media
+    Desc (154 chars)
+    H1        : We turn great ideas into
+                                            
+
+  [C:\Users\mpro\Desktop\mprnew\mpr-main\services\seo-optimization\index.html]
+    Issues    : DESC_TOO_LONG_165
+    Title(57): SEO Optimization Services | Technical SEO | Prozesy Media
+    Desc (165 chars)
+    H1        : Your Partner in Growth: Expert SEO Optimization Services
+
+--- DUPLICATE TITLES (0 groups) ---
+
+--- DUPLICATE DESCRIPTIONS (0 groups) ---
+
+========== SUMMARY ==========
+  Missing H1         : 0
+  Title too long(>60): 0
+  Title too short(<30): 0
+  Desc too long(>160) : 2
+  Desc too short(<120): 0
+  H1/Title mismatch  : 9
+  Dup title groups   : 0
+  Dup desc groups    : 0
+============================
